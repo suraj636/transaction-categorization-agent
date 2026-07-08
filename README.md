@@ -220,7 +220,3 @@ python Testing_Script/Testing_Script.py
 Output includes overall accuracy, average confidence, invalid-category rate, and per-category accuracy. The script sleeps 2s between calls to stay within free-tier quotas. Captured Groq results: [RESULTS.md](RESULTS.md).
 
 ---
-
-## What was deliberately left out
-
-The brief explicitly didn't want any of these, so they're not here: auth, async streaming, background workers, microservices, DB persistence, deployment config, a reviewer agent, fine-tuning, or analytics.
